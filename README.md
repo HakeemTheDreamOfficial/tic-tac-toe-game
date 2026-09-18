@@ -14,7 +14,7 @@ Run:
 ```bash
 python tic_tac_toe.py
 ```
-##Future Improvements Inshaallah
+##Potential Future Improvements
 -Add GUI
 -Make the cpu actually stronger instead of it choosing random squares
 -Make function names more descriptive as they are a bit confusing right now
